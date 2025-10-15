@@ -33,7 +33,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [MediManager](https://github.com/Thomaiiz/CRUD---Medicamentos)
-- [CheckMate](https://github.com/VariableBee/EDA_Loggi](https://github.com/RafaelMatiass/domino-multiplayer))
+- [CheckMate](https://github.com/RafaelMatiass/domino-multiplayer.git)
   
 
 <!-- GIF -->
