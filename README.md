@@ -18,7 +18,7 @@ Tenho grande interesse por tecnologia e estou sempre em busca de novos aprendiza
   </a>
 
   <!-- Projetos -->
-  <a href="https://github.com/Thomaiz?tab=repositories" target="_blank">
+  <a href="https://github.com/Thomaiiz?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
