@@ -39,5 +39,11 @@ Tenho grande interesse por tecnologia e estou sempre em busca de novos aprendiza
 <br/>
 <br/>
 
+### 📊 Estatísticas
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thomaiiz&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thomaiiz&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" />
+</div>
+
 
 
