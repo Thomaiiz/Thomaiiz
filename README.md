@@ -1,10 +1,10 @@
-# 👨🏻‍💻 Thomaz Segreto
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Ah, Hello!
 
-**`Desenvolvedor FullStack`**
+**`Fullstack Developer`**
 
-Me chamo Thomaz Rodrigues Segreto, tenho 22 anos e sou natural de São Paulo – Limeira. Concluí o ensino médio no Colégio Portinari e atualmente estou cursando Sistemas para Internet no IFSP – Campus Araraquara.
+My name is Thomaz Rodrigues Segreto, I'm 22 years old and I was born in São Paulo – Limeira. I completed high school at Colégio Portinari and I'm currently studying Internet Systems at IFSP – Araraquara Campus.
 
-Tenho grande interesse por tecnologia e estou sempre em busca de novos aprendizados, tanto acadêmicos quanto práticos. Me considero uma pessoa carismática, sociável e com facilidade para trabalhar em equipe. Atualmente, estou em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos na área de desenvolvimento.
+I have a strong interest in technology and I'm always looking for new knowledge, both academic and practical. I consider myself a friendly, sociable person who works well in a team. I'm currently looking for an internship opportunity to apply and expand my knowledge in the development field.
 
 <p align="left">
   <!-- Instagram -->
