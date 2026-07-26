@@ -1,3 +1,5 @@
+[![Banner](https://i.imgur.com/gEk1XZX.png "Thomaz Segreto")](https://github.com/SEU-USUARIO)
+
 # 👨🏻‍💻 Thomaz Segreto
 
 **`Desenvolvedor FullStack`**
