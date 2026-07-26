@@ -42,7 +42,7 @@ I have a strong interest in technology and I'm always looking for new knowledge,
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 My Stats
 <p>
     <div align="center">
       <img
