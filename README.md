@@ -26,14 +26,12 @@ I have a strong interest in technology and I'm always looking for new knowledge,
 
 ---
 
-### 🤖 I Work on :
-
 ## I Work on :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,angular,java,spring,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,java,spring" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=supabase,mysql,oracle,github" />
+    <img src="https://skillicons.dev/icons?i=cs,figma,aws,supabase,nodejs,mysql,github" />
 </p>
 
 <br/>
