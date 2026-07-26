@@ -26,7 +26,7 @@ I have a strong interest in technology and I'm always looking for new knowledge,
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 I Work on :
 
 <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
