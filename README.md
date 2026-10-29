@@ -37,31 +37,24 @@ I have a strong interest in technology and I'm always looking for new knowledge,
 <br/>
 <br/>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Thomaiiz&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thomaiiz&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thomaiiz&theme=github" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thomaiiz&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thomaiiz&theme=github" alt="Top Languages" />
+  </picture>
+</p>
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thomaiiz&theme=github_dark">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thomaiiz&theme=github" alt="Profile Details" />
+  </picture>
+</p>
 
-<div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thomaiiz&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most Used Languages"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Thomaiiz&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
+<hr />
