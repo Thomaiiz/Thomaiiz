@@ -37,6 +37,23 @@ I have a strong interest in technology and I'm always looking for new knowledge,
 <br/>
 <br/>
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Thomaiiz&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats" />
+
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thomaiiz&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Thomaiiz&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
+</p>
 
 
 
